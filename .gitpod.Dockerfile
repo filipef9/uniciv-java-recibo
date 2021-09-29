@@ -1,7 +1,5 @@
 FROM gitpod/workspace-full
 
-RUN bash -c ". /home/gitpod/.sdkman/bin/sdkman-init.sh && sdk install java 12.0.1.j9-adpt"
-
 RUN bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 
 RUN sudo apt-get update &&\
