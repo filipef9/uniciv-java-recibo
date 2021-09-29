@@ -1,0 +1,20 @@
+****
+* Nomes significativos
+* Funções e métodos
+* Comentários
+* Formatação e code styles
+* Tratamento de erros
+* Coesão e acoplamento
+****
+
+****
+* Um único nível de indentação por método
+* Nunca use a palavra reservada ELSE
+* Encapsule todos os tipos primitivos e Strings
+* Encapsule suas coleções de dados
+* Um ponto por linha
+* Nunca use abreviação
+* Mantenha todas as entidades pequenas
+* Nenhuma classe deve ter mais de duas variáveis de instâncias
+* Não use getters/setters/properties
+****
