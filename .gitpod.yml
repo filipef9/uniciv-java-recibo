@@ -8,9 +8,7 @@ ports:
 
 vscode:
   extensions:
-    - redhat.java
-    - vscjava.vscode-java-debug
-    - vscjava.vscode-java-test
+    - vscjava.vscode-java-pack
     - pivotal.vscode-spring-boot
     - vscode-icons-team.vscode-icons
     - coenraads.bracket-pair-colorizer
